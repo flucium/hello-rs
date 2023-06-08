@@ -12,6 +12,8 @@ ver: memo associated with Rust version upgrade.
 
 example: commonly used codes and examples.
 
+(https://github.com/flucium/hello-rs/branches)
+
 <br>
 
 ***Look!***
